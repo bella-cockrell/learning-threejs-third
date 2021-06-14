@@ -1,8 +1,8 @@
-#Learn Three.js
+# Learn Three.js
 
 This repo contains all the work I push following _Learn Three.js (third edition)_ by Jos Dirksen. I am doing this because I want to make cool graphics.
 
-###Completed chapters
+### Completed chapters
 - [ ] Chapter 1 (Creating Your First Scene)
 - [ ] Chapter 2 (The Basic Components)
 - [ ] Chapter 3 (Different Light Sources)
